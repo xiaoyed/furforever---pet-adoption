@@ -1,0 +1,8 @@
+
+{
+  "name": "FurForever - Pet Adoption",
+  "description": "A premium pet adoption platform connecting stray animals with loving homes, featuring AI-powered matchmaking and a seamless application process.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
